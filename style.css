@@ -8,8 +8,8 @@ body {
 	background: url(iphone.jpg) no-repeat center;
 }
 h1{
-	color:#ffff;
+	color:#ffff !important;
 }
 h4{
-	color:#ffff;
+	color:#ffff !important;
 }
