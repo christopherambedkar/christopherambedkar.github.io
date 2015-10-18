@@ -1,12 +1,15 @@
-
-
-}
 .intro-message{
 	text-align: center;
 	padding-top: 20%;
 	padding-bottom: 10%;
-	color: #00BFFF;
+	color: #808080;
 }
 body {
 	background: url(iphone.jpg) no-repeat center;
+}
+h1{
+	color:#ffff;
+}
+h4{
+	color:#ffff;
 }
